@@ -3,7 +3,6 @@ package com.example.retrofitexample;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
-import com.example.retrofitexample.TeamAdapter;
 import android.os.Bundle;
 import java.util.List;
 
